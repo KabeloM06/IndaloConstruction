@@ -1,3 +1,7 @@
 body {
     margin: 0 2rem;
 }
+
+#header {
+    background-image: url("media/headerbackground.jpg");
+}
