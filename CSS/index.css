@@ -1,7 +1,9 @@
-body {
-    margin: 0 2rem;
+
+
+.header {
+  background-image: url("/media/headerbackground.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 40rem;
 }
 
-#header {
-    background-image: url("media/headerbackground.jpg");
-}
